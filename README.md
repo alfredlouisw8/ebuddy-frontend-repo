@@ -7,8 +7,8 @@ This repository contains the frontend code for the project, using Next.js and Re
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/frontend-repo.git
-   cd frontend-repo
+   git clone git@github.com:alfredlouisw8/ebuddy-frontend-repo.git
+   cd ebuddy-frontend-repo
    ```
 
 2. **Install dependencies**
